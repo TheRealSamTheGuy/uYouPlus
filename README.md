@@ -1,5 +1,5 @@
 # uYouPlus
-Can I pls bot have this on my profile
+Can I pls not have this on my profile
 ![Image 2](https://github.com/qnblackcat/uYouPlus/assets/77606385/c1a1c58a-5d4d-48a6-bb98-d00086719ccc)
 <!--![Image](https://github.com/therealFoxster/uYouPlus/assets/77606385/eb34d3e3-a679-45d0-b2e5-01fdd459ce63)-->
 
